@@ -45,7 +45,7 @@
 - **Type:** Mobile Banking Web App  
 - **Features:** Modern UI & smooth UX  
 - **Tech:** React, Tailwind  
-- [🌐 Live Demo](#) | [💻 Source Code](#)
+- [🌐 Live Demo](https://likhon-25.github.io/Payoo-Mobile-Bank/) | [💻 Source Code](https://github.com/Likhon-25)
 
 ---
 
@@ -53,7 +53,7 @@
 - **Type:** Vocabulary Learning Platform  
 - **Features:** Simple & clean design  
 - **Tech:** HTML, CSS, JavaScript  
-- [🌐 Live Demo](#) | [💻 Source Code](#)
+- [🌐 Live Demo](https://likhon-25.github.io/English_Janala_App/) | [💻 Source Code](https://github.com/Likhon-25/English_Janala_App)
 
 ---
 
@@ -61,7 +61,7 @@
 - **Type:** Job Application Tracker  
 - **Features:** Organized dashboard system  
 - **Tech:** MERN Stack  
-- [🌐 Live Demo](#) | [💻 Source Code](#)
+- [🌐 Live Demo](https://likhon-25.github.io/Job-Tracker/) | [💻 Source Code](https://github.com/Likhon-25/Job-Tracker)
 
 ---
 
