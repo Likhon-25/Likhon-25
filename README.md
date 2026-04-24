@@ -41,10 +41,16 @@
 
 ## 🚀 Projects
 
+### 💳 Modern Hearth Resturent
+- **Type:** Resturent Website 
+- **Features:** Modern UI & smooth UX  
+- **Tech:** React, Tailwind  
+- [🌐 Live Demo]([https://likhon-25.github.io/Payoo-Mobile-Bank/](https://modern-hearth-resturent.vercel.app/)) | [💻 Source Code]([https://github.com/Likhon-25](https://github.com/Likhon-25/Modern-Hearth-Resturent))
+- 
 ### 💳 Payoo
 - **Type:** Mobile Banking Web App  
 - **Features:** Modern UI & smooth UX  
-- **Tech:** React, Tailwind  
+- **Tech:** JavaScript, Tailwind  
 - [🌐 Live Demo](https://likhon-25.github.io/Payoo-Mobile-Bank/) | [💻 Source Code](https://github.com/Likhon-25)
 
 ---
@@ -52,7 +58,7 @@
 ### 📖 English Journal
 - **Type:** Vocabulary Learning Platform  
 - **Features:** Simple & clean design  
-- **Tech:** HTML, CSS, JavaScript  
+- **Tech:** HTML, Tailwind Css, JavaScript ES6  
 - [🌐 Live Demo](https://likhon-25.github.io/English_Janala_App/) | [💻 Source Code](https://github.com/Likhon-25/English_Janala_App)
 
 ---
@@ -60,7 +66,7 @@
 ### 📋 Job Tracker
 - **Type:** Job Application Tracker  
 - **Features:** Organized dashboard system  
-- **Tech:** MERN Stack  
+- **Tech:** HTML, Tailwind CSS, JavaScript Dom 
 - [🌐 Live Demo](https://likhon-25.github.io/Job-Tracker/) | [💻 Source Code](https://github.com/Likhon-25/Job-Tracker)
 
 ---
