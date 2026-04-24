@@ -45,7 +45,8 @@
 - **Type:** Resturent Website 
 - **Features:** Modern UI & smooth UX  
 - **Tech:** React, Tailwind  
-- [🌐 Live Demo]([https://likhon-25.github.io/Payoo-Mobile-Bank/](https://modern-hearth-resturent.vercel.app/)) | [💻 Source Code]([https://github.com/Likhon-25](https://github.com/Likhon-25/Modern-Hearth-Resturent))
+-[🌐 Live Demo](https://modern-hearth-resturent.vercel.app/) | [💻 Source Code](https://github.com/Likhon-25/Modern-Hearth-Resturent)
+
 - 
 ### 💳 Payoo
 - **Type:** Mobile Banking Web App  
