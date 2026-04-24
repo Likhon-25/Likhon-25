@@ -52,7 +52,7 @@
 - **Type:** Mobile Banking Web App  
 - **Features:** Modern UI & smooth UX  
 - **Tech:** JavaScript, Tailwind  
-- [🌐 Live Demo](https://likhon-25.github.io/Payoo-Mobile-Bank/) | [💻 Source Code](https://github.com/Likhon-25)
+- [🌐 Live Demo](https://likhon-25.github.io/Payoo-Mobile-Bank/) | [💻 Source Code[(https://github.com/Likhon-25/Payoo-Mobile-Bank))]
 
 ---
 
