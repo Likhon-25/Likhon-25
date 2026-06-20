@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000080&size=28&center=true&vCenter=true&width=700&lines=Assalamualaikum+I'm+Likhon+Mondol;MERN+Stack+Developer;Learning+React+Node+MongoDB;Building+Real+Projects&font=Fira+Code&weight=700" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000080&size=28&center=true&vCenter=true&width=700&lines=Assalamualaikum+I'm+Likhon+Mondol;MERN+Stack+Developer;Learning+Typescript+React+Node+MongoDB;Building+Real+Projects&font=Fira+Code&weight=700" />
 </p>
 
 <p align="center">
