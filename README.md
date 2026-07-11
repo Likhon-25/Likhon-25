@@ -33,18 +33,11 @@
 </p> -->
 ### Backend & Database
 <p align="center">
-  <!-- সাপোর্টেড আইকনগুলো একসাথে -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-<p align="center">
-  <!-- বাকি টেকনোলজিগুলোর জন্য কাস্টম ব্যাজ -->
-  <img src="https://img.shields.io/badge/HeroUI-Orange?style=flat-square" alt="HeroUI" />
-  <img src="https://img.shields.io/badge/BetterAuth-Purple?style=flat-square" alt="BetterAuth" />
-  <img src="https://img.shields.io/badge/Mongoose-Red?style=flat-square" alt="Mongoose" />
-</p>
-### Tools & Workflow
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node & DB" />
+  <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/favicon.ico" width="48" height="48" alt="HeroUI" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://raw.githubusercontent.com/better-auth/better-auth/main/assets/logo.png" width="48" height="48" alt="BetterAuth" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="48" height="48" alt="Mongoose" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
 </p>
 
 ---
