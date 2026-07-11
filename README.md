@@ -28,18 +28,16 @@
 </p>
 
 ### Backend & Database
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,heroui,betterauth,express,mongodb,mongoose" />
-</p> -->
-### Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node & DB" />
   <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/favicon.ico" width="48" height="48" alt="HeroUI" style="vertical-align: middle; margin: 0 5px;" />
- 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="48" height="48" alt="Mongoose" style="vertical-align: middle; margin: 0 5px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
 </p>
-
+### Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman" />
+</p>
 ---
 
 ## 🚀 Projects
