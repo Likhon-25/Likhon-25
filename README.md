@@ -24,17 +24,17 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind" />
 </p>
 
 ### Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,betterauth,express,mongodb,mongoose" />
 </p>
 
 ### Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
