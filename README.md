@@ -28,10 +28,20 @@
 </p>
 
 ### Backend & Database
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,heroui,betterauth,express,mongodb,mongoose" />
+</p> -->
+### Backend & Database
+<p align="center">
+  <!-- সাপোর্টেড আইকনগুলো একসাথে -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
-
+<p align="center">
+  <!-- বাকি টেকনোলজিগুলোর জন্য কাস্টম ব্যাজ -->
+  <img src="https://img.shields.io/badge/HeroUI-Orange?style=flat-square" alt="HeroUI" />
+  <img src="https://img.shields.io/badge/BetterAuth-Purple?style=flat-square" alt="BetterAuth" />
+  <img src="https://img.shields.io/badge/Mongoose-Red?style=flat-square" alt="Mongoose" />
+</p>
 ### Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
