@@ -29,7 +29,7 @@
 
 ### Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,betterauth,express,mongodb,mongoose" />
+  <img src="https://skillicons.dev/icons?i=nodejs,heroui,betterauth,express,mongodb,mongoose" />
 </p>
 
 ### Tools & Workflow
