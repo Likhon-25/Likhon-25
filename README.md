@@ -36,7 +36,7 @@
 </p>
 ### Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
 </p>
 ---
 
