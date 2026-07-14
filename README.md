@@ -24,7 +24,7 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs" />
 </p>
 
 ### Backend & Database
