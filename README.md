@@ -19,27 +19,26 @@
 - 📍 Based in Rangpur, Bangladesh  
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs" />
-  <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/favicon.ico" width="48" height="48" alt="HeroUI" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs" alt="Frontend" />
+</p>
+
+### UI Libraries & Styling
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/favicon.ico" width="40" height="40" alt="HeroUI" style="vertical-align: middle; margin: 0 5px;" />
 </p>
 
 ### Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node & DB" />
-  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="48" height="48" alt="Mongoose" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="Backend & DB" />
 </p>
 
 ### Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman" alt="Tools" />
 </p>
 ---
 
