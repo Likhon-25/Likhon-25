@@ -26,11 +26,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs" alt="Frontend" />
 </p>
 
-### UI Libraries & Styling
-<p align="center">
-  <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/favicon.ico" width="40" height="40" alt="HeroUI" style="vertical-align: middle; margin: 0 5px;" />
-</p>
-
 ### Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="Backend & DB" />
