@@ -1,6 +1,6 @@
-<p align="center">
+[<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=000080&size=28&center=true&vCenter=true&width=700&lines=Assalamualaikum+I'm+Likhon+Mondol;MERN+Stack+Developer;Learning+Typescript+React+Node+MongoDB;Building+Real+Projects&font=Fira+Code&weight=700" />
-</p>
+</p>](https://github.com/Likhon-25/Likhon-25/blob/main/Likhon%20Banner.jpg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Diploma-CS%20&%20Technology-blue?style=flat&logo=readme" />
