@@ -51,6 +51,13 @@
 - **Tech:** React, Tailwind
 - [🌐 Live Demo](https://modern-hearth-resturent.vercel.app/) | [💻 Source Code](https://github.com/Likhon-25/Modern-Hearth-Resturent)
 
+- 
+### 💳 Bangla News 24
+- **Type:** News Website
+- **Features:** Modern UI & smooth UX
+- **Tech:** Tailwind, Typescript, Next.js, Better-auth, Mongodb
+- [🌐 Live Demo](https://bangla-news-24-phi.vercel.app/) | [💻 Source Code](https://github.com/Likhon-25/bangla-news-24)
+
 ---
 
 ## 🏆 Achievements
