@@ -45,6 +45,12 @@
 
 ## 🚀 Projects
 
+### 💳 Bazar_Dor
+- **Type:** Product Market Price showing Website
+- **Features:** Modern UI & smooth UX
+- **Tech:** Next.js, MongoDb, BetterAuth, Tailwind
+- [🌐 Live Demo](https://a7-bazar-dor-eight.vercel.app/) | [💻 Source Code](https://github.com/Likhon-25/Bazar_Dor)
+- 
 ### 💳 Modern Hearth Resturent
 - **Type:** Resturent Website
 - **Features:** Modern UI & smooth UX
